@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chars>
+    <char name="你" sample_num="1" stand_ave="0.0" stand_cnt="1" stand_str="312310123423201" />
+    <char name="好" sample_num="1" stand_ave="0.0" stand_cnt="1" stand_str="23210320101231234320" />
+    <char name="识" sample_num="1" stand_ave="0.0" stand_cnt="1" stand_str="13102121012310321" />
+    <char name="彭" sample_num="1" stand_ave="0.0" stand_cnt="1"
+        stand_str="101423103210231031231023203032" />
+    <char name="小" sample_num="1" stand_ave="0.0" stand_cnt="1" stand_str="2321" />
+    <char name="野" sample_num="1" stand_ave="0.0"
+        stand_cnt="1" stand_str="212101012323101314231031020234012410232343" />
+    <char name="吴" sample_num="1" stand_ave="0.0" stand_cnt="1" stand_str="212012301031012310321" />
+    <char name="Q" sample_num="1" stand_ave="0.0" stand_cnt="1" stand_str="20123431" />
+    <char name="清" sample_num="1" stand_ave="0.0" stand_cnt="1"
+        stand_str="013012142410310132131012131031" />
+    <char name="9" sample_num="1" stand_ave="0.0" stand_cnt="1" stand_str="321012312" />
+    <char name="牛" sample_num="2" stand_ave="0.0" stand_cnt="1" stand_str="201310132">
+        <feature cnt="1" str="2030132" />
+    </char>
+    <char name="编" sample_num="1" stand_ave="0.0" stand_cnt="1"
+        stand_str="30130123010121302304231202340142" />
+    <char name="狗" sample_num="1" stand_ave="0.0" stand_cnt="1" stand_str="32313101232012310" />
+    <char name="给" sample_num="1" stand_ave="0.0" stand_cnt="1"
+        stand_str="31012312312321403201230" />
+    <char name="%" sample_num="1" stand_ave="0.0" stand_cnt="1" stand_str="321012432120123" />
+    <char name="+" sample_num="1" stand_ave="0.0" stand_cnt="1" stand_str="0132" />
+    <char name="十" sample_num="1" stand_ave="0.0" stand_cnt="1" stand_str="032" />
+    <char name="x" sample_num="1" stand_ave="0.0" stand_cnt="1" stand_str="01232" />
+    <char name="英" sample_num="1" stand_ave="0.0" stand_cnt="1" stand_str="10421232120134103231" />
+    <char name="河" sample_num="1" stand_ave="0.0" stand_cnt="1" stand_str="1312132032431201231" />
+    <char name="大" sample_num="1" stand_ave="0.0" stand_cnt="1" stand_str="101321" />
+    <char name="大" sample_num="1" stand_ave="0.0" stand_cnt="1" stand_str="03232101" />
+    <char name="他" sample_num="1" stand_ave="0.0" stand_cnt="1" stand_str="3212121012321012" />
+    <char name="小" sample_num="1" stand_ave="0.0" stand_cnt="1" stand_str="234321" />
+    <char name="牛" sample_num="3" stand_ave="0.0" stand_cnt="1" stand_str="203032">
+        <feature cnt="1" str="203032" />
+        <feature cnt="1" str="20302" />
+    </char>
+</chars>
